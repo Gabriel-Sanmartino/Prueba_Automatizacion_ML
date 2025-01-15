@@ -2,7 +2,7 @@
 
 ## Glosario de documentos
 
-Testing_Automati.ipynb: ETL, extraccion de los datos del archivo "Walmart_Sales", 
+Testing_Automat.ipynb: ETL, extraccion de los datos del archivo "Walmart_Sales", 
 validacion de datos, manejo de nulos,correccion de formatos, carga a base de datos SQL Server via Python. <br>
 
 ActCSV.py: Actualizar CSV, al ejecutar el codigo contendio en el scrip agrega una fila completa al documento 
