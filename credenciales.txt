@@ -1,0 +1,6 @@
+'DRIVER={ODBC Driver 17 for SQL Server};'
+    'SERVER=DESKTOP-Q0M1776;'
+    'DATABASE=Automat_DB;'
+    'UID=sa;'
+    'PWD=gabdas'
+

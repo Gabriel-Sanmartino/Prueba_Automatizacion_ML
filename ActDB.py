@@ -9,10 +9,10 @@ df = pd.read_csv(ruta_csv)
 # Conectar a la base de datos SQL Server
 conn = pyodbc.connect(
     'DRIVER={ODBC Driver 17 for SQL Server};'
-    'SERVER=DESKTOP-Q0M1776;'
-    'DATABASE=Automat_DB;'
-    'UID=sa;'
-    'PWD=gabdas'
+    'SERVER=***************;'
+    'DATABASE=**********;'
+    'UID=**;'
+    'PWD=********'
 )
 
 # Crear un cursor
